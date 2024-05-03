@@ -1,0 +1,3 @@
+<p>As a front-end developer, I designed a tours and travel website, leveraging my skills in HTML, CSS, JavaScript, and Reactjs to create an engaging and interactive platform. Which will cater to the needs of travel enthusiasts.</p>
+<p>Designing a user-friendly interface that showcased popular travel destinations, travel packages and booking options, ensuring a seamless browsing experience for visitors.</p>
+<p>By showcasing my front-end development skills in this tour and travel project, I demonstrated my ability to create visually appealing websites that drive user engagement and conversions. My experience in building interactive and responsive interfaces aligns with industry best practices and contributes to delivering.</p>
